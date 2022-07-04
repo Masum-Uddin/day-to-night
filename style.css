@@ -1,0 +1,19 @@
+.headname{color: orange;}
+body{font-family: 'Bungee Shade', cursive;
+    font-family: 'Poppins', sans-serif;
+margin: 0px;}
+h1{font-size: 50px;}
+section{display: flex;}
+.half_with{width: 50%;
+margin-left: 5%;}
+.half_with img{ width: 80%;
+padding-left: 10%;}
+.fb{text-decoration: none;
+background-image:linear-gradient(orange,tomato);
+padding: 10px 40px;
+border-radius: 5px;
+color: white;
+font-weight: 700;}
+.top-banner{background-image: url(top-banner.png);
+background-repeat: no-repeat;
+}
