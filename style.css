@@ -3,9 +3,11 @@ body{font-family: 'Bungee Shade', cursive;
     font-family: 'Poppins', sans-serif;
 margin: 0px;}
 h1{font-size: 50px;}
-section{display: flex;}
+section{display: flex;
+margin-bottom: 100px;}
 .half_with{width: 50%;
-margin-left: 5%;}
+margin-left: 5%;
+margin-top: 3%;}
 .half_with img{ width: 80%;
 padding-left: 10%;}
 .fb{text-decoration: none;
@@ -17,3 +19,7 @@ font-weight: 700;}
 .top-banner{background-image: url(top-banner.png);
 background-repeat: no-repeat;
 }
+.topbanner2{
+background-image: url(dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;}
