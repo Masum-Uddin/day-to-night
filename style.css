@@ -3,7 +3,7 @@ body{font-family: 'Bungee Shade', cursive;
     font-family: 'Poppins', sans-serif;
 margin: 0px;}
 h1{font-size: 50px;}
-section{display: flex;
+.flexe{display: flex;
 margin-bottom: 100px;}
 .half_with{width: 50%;
 margin-left: 5%;
@@ -23,3 +23,18 @@ background-repeat: no-repeat;
 background-image: url(dream-bg.png);
 background-repeat: no-repeat;
 background-position: right;}
+.h3org{color: orange;}
+.half-expat{width: 40%;
+margin-left: 5%;
+margin-top: 3%;
+margin-right: 5%;
+box-shadow: 10px 10px 15px gray;
+padding-left: 30px;
+border-left: 10px solid tomato;}
+.Experience{
+    background-image: url(exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+}
+#pro{border-left: 10px solid blue;}
+.footer{text-align: center;}
